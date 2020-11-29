@@ -2,6 +2,7 @@
 Requires Modsenfree v0.1.0
 
 ##Instructions
+
 While this mod is active, the player will always be running at full speed, including 
 during conversations. 
 
