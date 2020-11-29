@@ -1,0 +1,6 @@
+{
+  "id": "mktsk.alwaysberunning",
+  "displayName": "Always Be Running",
+  "assemblyName": "AlwaysBeRunning.dll",
+  "enabled": true
+}
